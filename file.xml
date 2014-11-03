@@ -1,3 +1,5 @@
 <config>
 	<map name="menu" value="1"></map>
+	<map name="admin" value="2"></map>
+	<map name="desc" value="3"></map>
 </config>
