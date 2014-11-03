@@ -1,3 +1,5 @@
 <config>
 	<map name="menu" value="1"></map>
+	<map name="item" value="4"></map>
+	<map name="main" value="5"></map>
 </config>
