@@ -1,9 +1,0 @@
-<config>
-	<map name="menu" value="1"></map>
-	<map name="item" value="4"></map>
-	<map name="main" value="5"></map>
-	<map name="admin" value="2"></map>
-	<map name="desc" value="3"></map>
-	<map name="os" value="5"></map>
-</config>
-
